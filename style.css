@@ -1,0 +1,49 @@
+/* write your CSS here */
+body{
+	max-width: 100%;
+}
+.online{
+    font-size: 30px;
+    color: #02a3ea;
+    font-weight: bold;
+}
+.card{
+	float: left;
+	margin: 30px;
+    border: 1px solid black;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: row;
+    font-size: 30px;
+    justify-content: center;
+    align-items: center;
+
+
+}
+.img{
+	padding: 16px;
+}
+.btn-group{
+	font-size: 30px;
+	margin-left: 980px;
+	padding: 40px;
+
+
+}
+.color{
+	background-color: #3ca9e8;
+	color: white;
+}
+.black{
+	color: black;
+}
+.gren{
+	color: #618a32a1;
+}
+.number{
+	font-size: 40px;
+	width: 40px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
